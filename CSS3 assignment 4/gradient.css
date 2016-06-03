@@ -1,0 +1,31 @@
+.div1 {
+	width: 100px;
+	height: 100px;
+	background:linear-gradient(to left, red,green);
+	margin-left: 30%;
+	display: inline-block;
+	border-radius: 10px;
+
+}
+
+.div2 {
+	width: 100px;
+	height: 100px;
+	background:radial-gradient( circle at top,red, yellow,green);
+	margin-left: 10%;
+	display: inline-block;
+	border-radius: 10px;
+}
+
+.div3 {
+	width: 100px;
+	height: 100px;
+	background:radial-gradient(ellipse at top,red,yellow,green);
+	margin-left: 10%;
+	display: inline-block;
+	border-radius: 10px;
+}
+
+p {
+	padding:27px;
+}
